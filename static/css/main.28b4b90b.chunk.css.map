@@ -1,0 +1,1 @@
+{"version":3,"sources":["CommentList.scss"],"names":[],"mappings":"AAAA,eACE,wBAA4B,CAC5B,kBAAmB,CACnB,YAAa,CACb,aAAsB","file":"main.28b4b90b.chunk.css","sourcesContent":[".post--comment {\r\n  background-color: aquamarine;\r\n  border-radius: 30px;\r\n  padding: 10px;\r\n  color: rgb(59, 56, 56);\r\n}\r\n"]}
